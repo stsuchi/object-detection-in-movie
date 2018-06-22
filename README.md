@@ -16,3 +16,8 @@ To run the code, the following setup is ncecessary.
 
 	b) Windows/Mac
 		'path_to_protc_bin_file' + protoc object_detection/protos/*.proto --python_out=.
+
+
+3) When protoc is set up. Run:
+	python object_detection_demo.py
+
